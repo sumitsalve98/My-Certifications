@@ -19,5 +19,5 @@
 ## Databases and SQL for Data Science with Python
 ![Databases and SQL for Data Science with Python](https://github.com/sumitsalve98/My-Certifications/blob/master/IBM%20Data%20Analyst%20Professional%20Certificate/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python.jpg)
 ## Data Analysis with Python
-![Data Analysis with Python]()
+![Data Analysis with Python](https://github.com/sumitsalve98/My-Certifications/blob/master/IBM%20Data%20Analyst%20Professional%20Certificate/Data%20Analysis%20with%20Python.jpg)
 
