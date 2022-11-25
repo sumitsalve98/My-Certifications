@@ -8,11 +8,11 @@
 ![IBM Data Analyst Professional Certificate](https://github.com/sumitsalve98/My-Certifications/blob/0bf24c82cf07f8afa5c7e3195a2bbaea62b445ba/IBM%20Data%20Analyst%20Professional%20Certificate/IBM%20Data%20Analyst.jpg)
 
 
-## Related
+## IBM Data Analyst Capstone Project
 
-Here are some related projects
+Here is The 2019 Stack Overflow Developer Survey Analysis
 
-[Here are some related projects](https://github.com/sumitsalve98/IBM-Data-Analyst-Capstone-Project)
+[IBM Data Analyst Capstone Project](https://github.com/sumitsalve98/IBM-Data-Analyst-Capstone-Project)
 
 
 ## Authors
