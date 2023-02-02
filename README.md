@@ -6,6 +6,8 @@
 
 ## IBM Data Analyst Professional Certificate
 ![IBM Data Analyst Professional Certificate](https://github.com/sumitsalve98/My-Certifications/blob/0bf24c82cf07f8afa5c7e3195a2bbaea62b445ba/IBM%20Data%20Analyst%20Professional%20Certificate/IBM%20Data%20Analyst.jpg?raw=true)
+## Full Stack Data Science Bootcamp
+![Full Stack Data Science Bootcamp](https://github.com/sumitsalve98/My-Certifications/blob/master/ineuron/ineuron_ai_%20certificate.jpg?raw=true)
 
 ## Authors
 
